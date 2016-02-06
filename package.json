@@ -1,0 +1,16 @@
+{
+  "name": "macgyver-jsdoc",
+  "version": "1.0.0",
+  "description": "JSdoc template used by MacGyver",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Adrian Lee",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:angular-macgyver/macgyver-jsdoc.git"
+  },
+  "dependencies": {
+    "jsdoc": "^3.4.0"
+  }
+}
